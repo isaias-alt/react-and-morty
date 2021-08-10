@@ -3,7 +3,7 @@ An app created with React.js and the [Rick and Morty API](https://rickandmortyap
 
 You can see the app [here](https://react-and-mory.vercel.app "here").
 
-[![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1BRUoMmeaSVrdmJmRpN6VKpfP5IbcAO5xLCWvW6LB6wlDFlkS)](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1BRUoMmeaSVrdmJmRpN6VKpfP5IbcAO5xLCWvW6LB6wlDFlkS)
+[![](https://media.ambito.com/p/e36e8e53c7abba996531db19942b4527/adjuntos/239/imagenes/038/786/0038786610/rick-and-morty.jpg)](https://media.ambito.com/p/e36e8e53c7abba996531db19942b4527/adjuntos/239/imagenes/038/786/0038786610/rick-and-morty.jpg)
 
 ## DEPLOYMENT
 To run this project it is only necessary clone the repository and install all dependencies with the command line `npm install` or `ni`.

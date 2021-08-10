@@ -1,0 +1,24 @@
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.circular-div{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    background: #00B0C8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+img{
+    height: 190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,13 +1,13 @@
-import React from 'react'
-import rick from '../assets/rick.gif'
-import principalImage from './principalImage.css'
+import React from "react";
+import rick from "../assets/rick.gif";
+import principalImage from "./styles/principalImage.css";
 
 export default function PrincipalImage() {
-  return(
+  return (
     <div className="img-container">
       <div className="circular-div">
-      	<img src={ rick } alt="Rick Eructando" />
+        <img src={rick} alt="Rick Eructando" />
       </div>
     </div>
-  )
+  );
 }
